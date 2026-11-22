@@ -25,8 +25,9 @@ School management platform. Built it from scratch in 3 months.
 - 6 web portals, 5 Android apps
 - AI assistant that asks before changing anything
 - PostgreSQL with 470+ tables, each school's data locked to that school
+- Self-hosted Supabase in Docker on Oracle Cloud, monitored with Grafana
+- 52 automatic jobs: invoices, reminders, alerts
 
-<img src="https://raw.githubusercontent.com/shivamlaur022/clarvix-showcase/main/images/dashboard-top.png" width="100%">
 
 </td>
 <td width="50%" valign="top">
@@ -43,7 +44,7 @@ Type one sentence, get an animated explainer video. English, Hindi or Hinglish. 
 </tr>
 </table>
 
-> Both codebases are private (Clarvix holds school data). The showcase repos have screenshots, sample videos and how things work inside.
+> Both codebases are private (Clarvix holds school data). The showcase repos explain every module, page and how it all works, with diagrams.
 
 ---
 
@@ -59,7 +60,7 @@ Type one sentence, get an animated explainer video. English, Hindi or Hinglish. 
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
 
 **Cloud & DevOps**<br>
-<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 
 **Mobile & video**<br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white">
