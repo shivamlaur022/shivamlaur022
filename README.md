@@ -38,7 +38,7 @@ Type one sentence, get an animated explainer video. English, Hindi or Hinglish. 
 - Writes, voices, animates and renders on its own
 - Pay-per-use rendering, no fixed server cost
 
-<p align="center"><img src="https://raw.githubusercontent.com/shivamlaur022/motionmint-showcase/main/media/upi-pin-hindi.gif" width="45%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/shivamlaur022/motionmint-showcase/main/upi-pin-hindi.gif" width="45%"></p>
 
 </td>
 </tr>
