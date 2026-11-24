@@ -55,6 +55,7 @@ Type one sentence, get an animated explainer video. English, Hindi or Hinglish. 
 **Contributions**
 - [honojs/middleware#2276](https://github.com/honojs/middleware/pull/2276): `@hono/zod-openapi`, let async validation hooks return nothing on success (type fix + tests)
 - [TanStack/router#8988](https://github.com/TanStack/router/pull/8988): type `route.children` as the array it holds at runtime (type fix + tests)
+- [kristiandupont/kanel#823](https://github.com/kristiandupont/kanel/pull/823): fix a crash in the Postgres → TypeScript generator when routine parameters have no comment
 
 ---
 
