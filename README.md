@@ -48,6 +48,16 @@ Type one sentence, get an animated explainer video. English, Hindi or Hinglish. 
 
 ---
 
+### 🧩 Open source
+
+**[pg-tenant-guard](https://github.com/shivamlaur022/pg-tenant-guard)**: tenant isolation and a database-enforced read-only "tenant lock" for multi-tenant SaaS on PostgreSQL and Supabase. Plain SQL, 146 tests on Postgres 16 and 17, plus a Supabase smoke test in CI. The same patterns that keep each school's data separate in Clarvix, rebuilt as a generic kit.
+
+**Contributions**
+- [honojs/middleware#2276](https://github.com/honojs/middleware/pull/2276): `@hono/zod-openapi`, let async validation hooks return nothing on success (type fix + tests)
+- [TanStack/router#8988](https://github.com/TanStack/router/pull/8988): type `route.children` as the array it holds at runtime (type fix + tests)
+
+---
+
 ### 🛠️ Tech I work with
 
 **Frontend**<br>
